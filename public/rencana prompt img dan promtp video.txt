@@ -1,0 +1,124 @@
+================================================================================
+EVERYDAY COUPLE MEMORIES - AI IMAGE & VIDEO GENERATION PROMPTS
+Format: Production-Ready Prompts for Midjourney v6 / Flux / SDXL / Runway Gen-3 / Kling / Luma
+Theme: Spontaneous Indonesian Married Couple Everyday Life (Smartphone POV)
+Aspect Ratio: 4:5 (Standard Book Page) & 9:16 (Vertical Video)
+================================================================================
+
+[CHARACTER DESIGN & CONSISTENCY REFERENCE]
+- Male Character (Indonesian Husband, 26-30 yo):
+  Authentic Indonesian man, oval face, defined subtle jawline, sawo matang (warm medium-tan) skin tone, dark brown almond-shaped eyes, natural straight eyebrows, short black neat textured hair with subtle side part, medium build.
+  Wardrobe: Casual everyday wear (oversized cotton/linen t-shirt, casual overshirt, relaxed trousers, white sneakers or casual slide sandals, simple black wristwatch).
+
+- Female Character (Indonesian Wife, 24-28 yo, Modest/Hijab):
+  Authentic Indonesian woman, soft oval face, gentle rounded cheeks, warm light-medium skin tone, dark brown almond eyes, soft natural eyebrows, warm gentle smile.
+  Hijab & Wardrobe: Neatly styled modern hijab in warm beige, soft mocha, or cream completely covering hair, neck, and chest. Modest casual attire (long-sleeve blouse, relaxed knit tunic, flowing dusty-rose, taupe, or earth-tone long skirt, flat shoes, small shoulder bag).
+
+[GLOBAL PHOTOGRAPHIC RULES FOR ALL IMAGE PROMPTS]
+- Camera device: Smartphone camera (iPhone 15 Pro / Google Pixel 8 aesthetic).
+- Lens & framing: Natural wide-angle (24mm - 28mm for 1x, 50mm for 2x, 20mm for front camera). Imperfect, spontaneous framing.
+- Lighting: Available natural daylight, indoor ambient light, golden hour, or rainy weather.
+- Quality: Natural digital smartphone photography, realistic skin pores, subtle motion blur, realistic depth of field.
+- STRICT NEGATIVES: NO professional studio lighting, NO DSLR bokeh blur, NO prewedding poses, NO glossy fashion editorial styling, NO artificial symmetrical composition, NO plastic smoothed skin.
+
+================================================================================
+PART 1: 12 IMAGE PROMPTS (PAGE 01 TO PAGE 12)
+================================================================================
+
+--- PAGE 01 - A RANDOM MOMENT ---
+Camera Perspective: Wife records husband (Smartphone low-angle, 1x wide camera)
+Midjourney / Flux Prompt:
+Candid low-angle smartphone photo taken from a low viewpoint looking up at a 28-year-old Indonesian husband. He is looking down towards the camera with a spontaneous, slightly surprised and playful half-smile, caught off-guard in the middle of a casual conversation. He has an oval face, warm medium-tan sawo matang skin, short textured black hair, and is wearing a relaxed cream oversized cotton t-shirt and charcoal trousers. The background shows a bright modern Indonesian apartment interior with natural daylight pouring in from high windows. Unposed everyday snapshot, authentic smartphone 24mm wide-angle lens perspective, realistic skin texture with natural pores, imperfect handheld framing, zero studio lighting, genuine domestic candid photography --ar 4:5 --v 6.1 --style raw
+
+--- PAGE 02 - OUR LITTLE JOURNEY ---
+Camera Perspective: Selfie together (Front camera selfie, wide road trip perspective)
+Midjourney / Flux Prompt:
+Spontaneous front-camera smartphone selfie of a young Indonesian married couple during a roadside stop on a motorcycle road trip. The 28-year-old Indonesian husband with warm medium-tan skin holds the phone at arm's length, wearing a sleek black half-face motorcycle helmet and a casual utility jacket over a t-shirt, smiling naturally at the lens. Beside him, his 26-year-old Indonesian wife with light-medium warm skin wears a soft beige helmet over her neatly draped cream hijab, smiling joyfully with crinkled happy eyes and a light breeze against her face. In the background is an open scenic Indonesian provincial highway stretching under a bright blue sky with fluffy white clouds. Natural arm-length wide-angle selfie distortion, realistic sunlight reflections on helmets, authentic vacation memory, unedited smartphone photo --ar 4:5 --v 6.1 --style raw
+
+--- PAGE 03 - LITTLE THINGS AT HOME ---
+Camera Perspective: Wife records husband (Rear smartphone camera 1x, casual framing)
+Midjourney / Flux Prompt:
+Candid indoor smartphone snapshot taken by a wife recording her husband in their cozy kitchen. A 28-year-old Indonesian husband with short black hair and warm tan skin is captured mid-action standing by the kitchen counter, casually brewing morning pour-over coffee, focused on pouring hot water into a dripper with gentle concentration and a faint contented smile. He wears comfortable home loungewear, an oversized heather-grey t-shirt and dark relaxed lounge shorts. Warm morning sunbeams filter through a nearby window casting soft shadows on ceramic mugs and kitchen tiles. Handheld phone camera point-of-view, natural room depth, authentic everyday domestic bliss, completely unposed, unretouched mobile camera capture --ar 4:5 --v 6.1 --style raw
+
+--- PAGE 04 - WEEKEND TOGETHER ---
+Camera Perspective: Selfie together (Mirror selfie, full-body framing)
+Midjourney / Flux Prompt:
+Authentic full-body smartphone mirror selfie of a young Indonesian couple taken inside a modern lifestyle shop. The 28-year-old Indonesian husband holds an iPhone upright with one hand, wearing an open beige linen overshirt over a white crewneck, dark brown tailored chinos, and clean white sneakers. His 26-year-old Indonesian wife stands relaxed right next to him with an arm linked softly through his elbow, wearing an elegant dusty-rose pleated long skirt, a loose cream long-sleeved tunic, and a neatly pinned mocha hijab, holding a small paper shopping bag in her other hand. Clean full-length mirror reflection, soft interior retail lighting, casual relaxed weekend date atmosphere, unposed natural body language, realistic phone reflection with visible phone case, sharp everyday digital capture --ar 4:5 --v 6.1 --style raw
+
+--- PAGE 05 - HER LITTLE SMILE ---
+Camera Perspective: Husband records wife (Rear smartphone camera 1x / 2x, across the table)
+Midjourney / Flux Prompt:
+Spontaneous candid smartphone photograph taken from across a small wooden cafe table looking at a 26-year-old Indonesian wife. She is captured in the middle of a genuine heartwarming laugh, holding a clear glass of iced matcha latte with both hands, looking down slightly with joyful crinkled eyes, completely unaware of the phone camera. She has a soft oval face, warm light-medium skin, and is wearing a neatly draped warm-beige chiffon hijab, a soft off-white knitted cardigan, and minimalist silver ring. Soft afternoon golden light streams across the cafe table, casting warm glows on the wooden surface and potted plants in the background. Handheld phone perspective, natural smartphone depth of field, real life authentic couple memory, no artificial posing --ar 4:5 --v 6.1 --style raw
+
+--- PAGE 06 - JUST US ---
+Camera Perspective: Selfie together (Front camera, close arm-length selfie)
+Midjourney / Flux Prompt:
+Intimate and spontaneous close-up front-camera selfie of a young Indonesian husband and wife sitting closely together. Their faces fill the frame with slightly imperfect, casual framing. The 28-year-old husband with short black hair and sawo matang skin is smiling widely with an authentic happy expression, while his 26-year-old wife wearing a soft mocha hijab leans her temple gently against his cheek, smiling with glowing eyes. Warm natural daylight softly illuminates their realistic facial features and skin texture. Genuine laughter, slight natural front-camera focal length distortion, authentic unedited couple selfie, zero retouching, pure joyful everyday married life --ar 4:5 --v 6.1 --style raw
+
+--- PAGE 07 - WALKING AHEAD ---
+Camera Perspective: Wife records husband (Rear smartphone camera 1x, street perspective)
+Midjourney / Flux Prompt:
+Candid street snapshot taken from behind by a wife walking a couple of steps behind her husband on a tree-lined pedestrian sidewalk in Bandung. The 28-year-old Indonesian husband is seen from a three-quarter back angle, walking forward with relaxed shoulders, one hand casually in his dark trouser pocket and the other holding a cold takeaway drink cup. He is wearing an oversized sage-grey cotton t-shirt, relaxed dark charcoal trousers, and sneakers. Dappled afternoon sunlight filters through leafy canopy branches onto the paved walkway. Handheld phone camera eye-level framing, subject walking naturally without looking back, realistic casual motion, authentic everyday stroll captured on smartphone --ar 4:5 --v 6.1 --style raw
+
+--- PAGE 08 - A QUIET AFTERNOON ---
+Camera Perspective: Husband records wife (Handheld rear camera, natural park daylight)
+Midjourney / Flux Prompt:
+Candid handheld smartphone photo of a 26-year-old Indonesian wife sitting peacefully on a clean green park lawn during late afternoon. Captured by her husband who is sitting nearby on the grass from a slightly low angle. She sits with her legs folded comfortably, hands resting on her lap, gently tucking her warm-beige hijab as a soft afternoon breeze touches the fabric. She wears a flowing taupe maxi skirt and a modest cream linen blouse. Golden hour sunlight casts long soft shadows and a warm luminous rim light along her silhouette. Natural outdoor grass background with subtle blur, authentic mobile photography, relaxed quiet peaceful moment between husband and wife --ar 4:5 --v 6.1 --style raw
+
+--- PAGE 09 - RAINY LITTLE ADVENTURE ---
+Camera Perspective: Wife records husband (Handheld smartphone, wide rainy perspective)
+Midjourney / Flux Prompt:
+Atmospheric smartphone photo taken on a rainy afternoon in Jakarta by a wife walking beside her husband. The 28-year-old Indonesian husband with short wet-textured black hair holds a large black umbrella overhead, smiling affectionately sideways down towards the phone camera lens. He is dressed in a dark water-resistant windbreaker jacket over a white tee, rolled-up navy trousers, and casual shoes. Fine raindrops shimmer in the ambient streetlights, and wet asphalt reflects streetlights and passing car headlights with glossy puddles. Natural handheld smartphone 28mm perspective, authentic rainy day mood, gentle romantic everyday life, candid slice-of-life documentation --ar 4:5 --v 6.1 --style raw
+
+--- PAGE 10 - SILLY LITTLE MOMENTS ---
+Camera Perspective: Selfie together (Front smartphone camera, close wide-angle)
+Midjourney / Flux Prompt:
+Humorous and spontaneous close-up front camera smartphone selfie of a young Indonesian married couple having fun. The 28-year-old husband makes a playful silly wink and goofy grin very close to the lens, while his 26-year-old wife wearing a neat cream hijab giggles helplessly, covering her mouth with one hand while leaning against his shoulder. Slight optical wide-angle perspective distortion typical of a smartphone selfie camera held close to the face. Cozy warm indoor evening ambient lighting, realistic skin texture with laugh lines, imperfect framing, capturing a real, private, unfiltered moment of joyful silliness between newlyweds --ar 4:5 --v 6.1 --style raw
+
+--- PAGE 11 - MY FAVORITE VIEW ---
+Camera Perspective: Husband records wife (Rear smartphone camera, sunset balcony view)
+Midjourney / Flux Prompt:
+Poetic and serene candid smartphone photograph taken by a husband standing behind his wife on a high-rise balcony. The 26-year-old Indonesian wife is captured from a three-quarters back profile leaning gently on the balcony railing, gazing at a breathtaking tropical sunset painted in soft peach, violet, and golden hues. She wears an oversized soft knit cardigan over a light tunic and a warm mocha chiffon hijab gently swaying in the evening breeze. The glowing twilight sky bathes the scene in warm natural light, highlighting the gentle silhouette of her face and the city skyline below. Natural exposure, unedited smartphone camera color science, quiet and deep emotional resonance, completely candid --ar 4:5 --v 6.1 --style raw
+
+--- PAGE 12 - ONE LAST MEMORY ---
+Camera Perspective: Selfie together (Front camera, casual close-up closing portrait)
+Midjourney / Flux Prompt:
+Heartwarming closing front-camera selfie of a young Indonesian husband and wife, framed in a tight, candid close-up. Both are looking straight into the phone camera with soft, deeply affectionate, serene smiles full of quiet contentment. The husband with warm medium-tan skin and clean short black hair rests his cheek close to his wife's neatly framed cream hijab. Soft warm golden-hour ambient glow illuminates their eyes and natural skin texture without any artificial skin smoothing or filters. Handheld smartphone perspective, authentic emotional depth, imperfect genuine framing, the intimate closing memory of an everyday married life album --ar 4:5 --v 6.1 --style raw
+
+================================================================================
+PART 2: 3 TEXT-TO-VIDEO PROMPTS (VIDEO 01 TO VIDEO 03)
+================================================================================
+Engine Recommendations: Runway Gen-3 Alpha, Kling AI, Luma Dream Machine, Sora, Minimax Hailuo
+Motion Guidelines: Slow natural handheld smartphone camera motion, realistic micro-expressions, gentle breeze, zero morphing artifacts.
+
+--- VIDEO 01 - MORNING COFFEE ROUTINE ---
+Placement: Pairs with Page 03 (Kitchen Coffee)
+Duration: 5-8 seconds | Aspect Ratio: 9:16 or 4:5 | Handheld Mobile Camera
+Prompt:
+A realistic smartphone video recording with gentle handheld breathing motion, filmed by a wife in a bright cozy kitchen. A 28-year-old Indonesian husband with short black hair and tan skin stands at the wooden counter, slowly pouring hot water from a kettle over a coffee dripper. Subtle steam rises softly into the morning sunlight. He glances up towards the camera with an affectionate, slightly sleepy half-smile, chuckles softly, then returns his gaze to the coffee stream. Natural room ambience, realistic handheld camera wobble, authentic slice-of-life domestic video clip, 4k 30fps mobile video look, natural lighting, zero artificial cinematic gloss.
+
+--- VIDEO 02 - SUNSET PARK BREEZE ---
+Placement: Pairs with Page 08 (Afternoon Park)
+Duration: 5-8 seconds | Aspect Ratio: 9:16 or 4:5 | Handheld Mobile Camera
+Prompt:
+Casual handheld phone video footage taken by a husband sitting on the grass, recording his 26-year-old Indonesian wife seated on a wooden park bench. A warm late-afternoon breeze gently sways the fabric of her cream hijab and the leaves of trees in the background. Golden hour sun rays create soft lens flare across the frame. She looks towards the park scenery, then notices the camera, looks directly into the lens, and bursts into a shy, graceful laugh, raising her hand gently to shield her smile. Realistic camera stabilization shake, genuine facial micro-expressions, warm natural daylight, authentic mobile video memory.
+
+--- VIDEO 03 - WALKING IN THE RAIN ---
+Placement: Pairs with Page 09 (Rainy Walk)
+Duration: 5-8 seconds | Aspect Ratio: 9:16 or 4:5 | Handheld Mobile Camera
+Prompt:
+A candid vertical smartphone video clip recorded by a wife while walking alongside her husband under rainy skies. The 28-year-old Indonesian husband in a dark windbreaker holds a large black umbrella, walking with a natural strolling cadence. Raindrops shimmer in the cool ambient light and create ripples in wet pavement puddles reflecting neon street signs. The husband turns his head toward the camera, gives an affectionate warm smile, and gently tilts the umbrella further toward his wife to protect her from the falling rain. Natural handheld walking camera movement, authentic rainy atmosphere, intimate unposed newlywed moment.
+
+================================================================================
+[TIPS PENGGUNAAN & REPLACEMENT DI FOLDER PROYEK]
+1. Jalankan prompt gambar di Midjourney v6 atau Flux.1 untuk menghasilkan 12 file:
+   - cover.jpg (opsional dapat menggunakan variasi dari Page 01 atau Page 12)
+   - page-01.jpg s.d. page-12.jpg
+   Simpan hasilnya ke folder: `public/images/`
+2. Jalankan prompt video di Runway Gen-3 / Luma / Kling AI untuk menghasilkan 3 file MP4:
+   - video-01.mp4 (Morning Coffee)
+   - video-02.mp4 (Park Sunset Breeze)
+   - video-03.mp4 (Rainy Umbrella Walk)
+   Simpan hasilnya ke folder: `public/videos/`
+3. Refresh browser web pada port 5173, seluruh placeholder album akan otomatis menampilkan foto dan video kenangan baru Anda!
+================================================================================

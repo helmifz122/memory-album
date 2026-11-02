@@ -1,0 +1,27 @@
+====================================================================
+PANDUAN MENGGANTI GAMBAR ALBUM FOTO PRIBADI
+====================================================================
+
+Folder ini berisi gambar-gambar yang digunakan oleh album foto:
+Lokasi: public/images/
+
+Daftar file yang dapat langsung Anda replace (ganti) dengan foto pribadi Anda:
+1.  cover.jpg    -> Foto sampul depan buku (rasio vertikal/portrait disarankan)
+2.  page-01.jpg  -> Foto halaman 01
+3.  page-02.jpg  -> Foto halaman 02
+4.  page-03.jpg  -> Foto halaman 03
+5.  page-04.jpg  -> Foto halaman 04
+6.  page-05.jpg  -> Foto halaman 05
+7.  page-06.jpg  -> Foto halaman 06
+8.  page-07.jpg  -> Foto halaman 07
+9.  page-08.jpg  -> Foto halaman 08
+10. page-09.jpg  -> Foto halaman 09
+11. page-10.jpg  -> Foto halaman 10
+12. page-11.jpg  -> Foto halaman 11
+13. page-12.jpg  -> Foto halaman 12
+
+TIPS:
+- Jika file Anda berformat .png, Anda bisa mengubah nama file di ALBUM_CONFIG
+  pada file: src/components/MemoryAlbum.tsx (misalnya ganti "/images/cover.jpg" menjadi "/images/cover.png").
+- Untuk tampilan terbaik, gunakan foto berorientasi vertikal (portrait) dengan rasio 3:4 atau ~0.76.
+====================================================================

@@ -1,0 +1,74 @@
+nah sekarng rencana revisi lagi nih untuk popup modal bagian cek dulu saat pertamkali dibuka kan ada popup modal ini ya (gambar 1 ). nah di revisi jadi lebih minim text dan tombol . lalu ikuti aturanminin text seperti rules yg tadi awal sayaberikan . oke ini revisi 1 . dan revisi kedua pada (gambar 2 )coba lihat bagian kiri dari perspefkti saya paling bawah kiri untuk tampilan customisasi album ini seharunya jangan di tempel di area bawah buku nya . seharunya di beri tombol bulat kecil aja bentuk icon tambah dengan warna hitam dan shape tombolnya putih lalu hapus tombol kustomisasi album sebagau gantinya . adpatasi dari ini  (https://language-icon-toggle.framer.website/) untuk bentuk tombl dan motion buttonya  . untuk iconnya ganti aja dari bentuk pensil kecil , jadi saat user klik atau hover muncul tombol baru dengan tab kiri dengah text tombol 'settng' dari peersefkti saya ketika di klik muncul card customnya lihat gambar 3 . untuk tab kanan tombol dengan text 'share' yg memunculkan popup card share your memori . lalu revisi juga pada tampilan preview cek dulunya beserta nnti link hasiljadi yg sudahdikirim ke oragn targetnya . lihat gambar 4 lihat bagian palign bawha buku ada tombol hadih virtual untuk anda hapus aja seluruh texnya ganti jadi tombol  'bikin sendiri' dengan referensi code ini sebagai tombolnya (html;<!-- From Uiverse.io by JaydipPrajapati1910 --> 
+<button class="Btn">
+  
+  <div class="sign"><svg viewBox="0 0 512 512"><path d="M377.9 105.9L500.7 228.7c7.2 7.2 11.3 17.1 11.3 27.3s-4.1 20.1-11.3 27.3L377.9 406.1c-6.4 6.4-15 9.9-24 9.9c-18.7 0-33.9-15.2-33.9-33.9l0-62.1-128 0c-17.7 0-32-14.3-32-32l0-64c0-17.7 14.3-32 32-32l128 0 0-62.1c0-18.7 15.2-33.9 33.9-33.9c9 0 17.6 3.6 24 9.9zM160 96L96 96c-17.7 0-32 14.3-32 32l0 256c0 17.7 14.3 32 32 32l64 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-64 0c-53 0-96-43-96-96L0 128C0 75 43 32 96 32l64 0c17.7 0 32 14.3 32 32s-14.3 32-32 32z"></path></svg></div>
+  
+  <div class="text">Logout</div>
+</button>
+css: /* From Uiverse.io by JaydipPrajapati1910 */ 
+.Btn {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 45px;
+  height: 45px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition-duration: .3s;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.199);
+  background-color: rgb(5, 65, 65);
+}
+
+/* plus sign */
+.sign {
+  width: 100%;
+  transition-duration: .3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sign svg {
+  width: 17px;
+}
+
+.sign svg path {
+  fill: white;
+}
+/* text */
+.text {
+  position: absolute;
+  right: 0%;
+  width: 0%;
+  opacity: 0;
+  color: white;
+  font-size: 1.2em;
+  font-weight: 600;
+  transition-duration: .3s;
+}
+/* hover effect on button width */
+.Btn:hover {
+  width: 125px;
+  border-radius: 40px;
+  transition-duration: .3s;
+}
+
+.Btn:hover .sign {
+  width: 30%;
+  transition-duration: .3s;
+  padding-left: 20px;
+}
+/* hover effect button's text */
+.Btn:hover .text {
+  opacity: 1;
+  width: 70%;
+  transition-duration: .3s;
+  padding-right: 10px;
+}
+/* button click effect*/
+.Btn:active {
+  transform: translate(2px ,2px);
+}) tapi tinggal ganti iconnya jadi pensil dan tetxnya jadi bikin sendiri . lalu lihat bagian gamba 5 itu ada section kiri mengenai studi kustomisasi . nah dari sini sleuruh aturan yg tadi sayabuat minim text minim subketerangan dll di terapkan . tapipetahnakan sturktru utama hanay reduce bagian2 tetxnya . redcude tetx ini berlaku ditab halaman, music , dan prolog dan sampul ya . pastikan itu di deskrisikan ke ai codingnya , . sekarng buat iontruksinya dalam formta canva siap copy oleh saya nnti di akir output sertakan juga [original intruksi ] disini kaliamt yg saya buat tadi masukan ke dalam kurung origianl intruksi . sekarng tugas kamu analisi dlu secara mendalam . masing2 gambar . sleuruh gambar bisa kamu cek di folder ini (C:\Users\Hilmi\Documents\DRIVE_PRIBADI\AI\ANTIGRAVITY\REA\album framer\assets\revision) 

@@ -1,0 +1,37 @@
+====================================================================
+PANDUAN MENGGUNAKAN VIDEO DI DALAM ALBUM FOTO
+====================================================================
+
+Komponen album ini mendukung video secara native!
+Lokasi folder: public/videos/
+
+Contoh file video yang telah disediakan:
+- video-01.mp4 (Contoh video di Halaman 03)
+- video-02.mp4 (Contoh video di Halaman 08)
+- video-03.mp4 (Contoh video di Halaman 09)
+
+CARA MEMASUKKAN VIDEO PRIBADI:
+1. Masukkan file video Anda (format .mp4 atau .webm) ke dalam folder ini:
+   public/videos/nama-video-anda.mp4
+
+2. Buka file src/components/MemoryAlbum.tsx, pada bagian ALBUM_CONFIG:
+   Cukup isi property "frontVideoURL" atau "backVideoURL" dengan path video Anda:
+
+   Contoh:
+   {
+     id: "leaf-2",
+     frontImageURL: "/images/page-03.jpg", // Berfungsi sebagai poster/thumbnail saat loading
+     frontVideoURL: "/videos/nama-video-anda.mp4", // Video akan otomatis autoplay, loop, dan muted
+     frontCaption: "Momen Pantai 2026",
+     frontFill: "bleed",
+     ...
+   }
+
+3. Jika suatu halaman hanya ingin menampilkan foto (tanpa video),
+   cukup kosongkan nilai frontVideoURL: "" atau backVideoURL: "".
+
+CATATAN:
+- Video akan otomatis berputar (autoplay), berulang (loop), dan tanpa suara (muted)
+  seperti fitur "Live Photo" atau video cinemagraph pada referensi aslinya.
+- Gunakan rasio vertikal/portrait (9:16 atau 3:4) untuk hasil visual yang paling memukau.
+====================================================================

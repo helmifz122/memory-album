@@ -1,0 +1,26 @@
+========================================================================
+PANDUAN PENGISIAN & PENGGANTIAN MUSIK LATAR (AUDIO BGM)
+========================================================================
+
+Folder ini digunakan untuk menyimpan file audio musik pengiring (Background Music)
+yang diputar otomatis saat album dan intro cerita pertama kali dibuka.
+
+File yang digunakan saat ini:
+- ambient-piano.mp3: Sampel musik piano klasik ambient tenang bebas hak cipta
+  (Erik Satie - Gymnopedie No. 1, Performed by Kevin MacLeod / Creative Commons).
+
+------------------------------------------------------------------------
+CARA MENGGANTI DENGAN MUSIK PILIHAN SENDIRI:
+------------------------------------------------------------------------
+1. Siapkan file musik yang Anda inginkan dalam format MP3.
+2. Beri nama file tersebut persis:
+   ambient-piano.mp3
+3. Salin dan timpa (replace) file tersebut ke dalam folder ini:
+   public/audio/ambient-piano.mp3
+4. Refresh halaman web di browser Anda, dan musik baru akan langsung diputar.
+
+Tips:
+- Pilih instrumen tenang tanpa lirik (piano, gitar akustik, atau string) agar
+  suasana membaca cerita dan membalik halaman buku terasa hangat dan emosional.
+- Bitrate yang direkomendasikan adalah 128kbps - 192kbps agar loading cepat dan hemat kuota.
+========================================================================
